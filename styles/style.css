@@ -1,0 +1,73 @@
+
+/*This is Comment in CSS */
+
+header { border:1px solid red;}
+
+header { border:1px solid green;}
+
+header { border:1px solid purple;}
+
+/* header ul li,
+ul li,
+.min-content {
+    background: blue;
+    border: 1px solid red;
+}
+
+
+/*
+main ul li {
+   background: red;
+}
+   /*
+
+.main-content .list-in-main{
+    border: 2px solid blue;
+} */
+
+/* DRY Code: Do Not Repeat Yourself */
+
+body {
+    font-family: "Plus Jacarta Sans", serif;
+    color: #000000;
+}
+
+header nav {
+    border: 1px solid purple;
+}
+
+header 
+    display flex; /* makes element flexbox*/
+    flex-direction: row; /* puts elements in hor
+    justly-content: space-between; /* moves c
+    align-items center; /* centers children
+    padding: 60px 120px;
+}
+
+header nav ul li {
+   display: inline;
+   padding: 0 40px;
+}
+
+
+.logo {
+    font-weight: 800;
+    font-size; 20px;
+}
+
+header button {
+   background: none;
+   border-radius: 10px;
+   padding: 12px 20px;  
+}
+
+header {
+    background: lightblue;
+}
+
+@media (max-width: 940px) {
+    
+    header {
+       display: blockground
+    }
+}
